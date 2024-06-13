@@ -4,7 +4,7 @@
 
 
 
-I am not using any Endpoints for data as for this task i have mocked the data
+
 
 # React Concepts Used In This Project
 I have used these concepts in this test Task
